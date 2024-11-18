@@ -1,2 +1,2 @@
 # Library-Management-System
-A library management system developed with C#.
+This project is the course project of the "Database Systems Laboratory" course.
